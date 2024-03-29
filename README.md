@@ -2,7 +2,7 @@
 
 I am a full hands-on guy with over 25 years experience in most IT critical fields. I lead by example and manage myself into a forward-thinking model. I know that the road to success is not straight forward and I strongly believe that everything is possible by focusing on the quality of the process rather than the results, because when a process is well designed it always bring good results. I enjoy establishing solid customer relationships as their top SME and guiding them to overcome their IT challenges. 
 
-In my experience, asking the right questions is the key to achieve success. To be of service is my highest purpose, whenever it is related to a customer or by helping my team or other teams to get the job properly done with high-quality standards. Outside IT, I love to coach people who - like me - also want to achieve more in getting a better job, a better salary, a better role, a better partnership, a better resilency, a better enjoyable and meaningful life.
+In my experience, asking the right questions is the key to achieve success. And to be of service is my highest purpose, whenever it is related to a customer or by helping my team or other teams to get the job properly done with high-quality standards. Outside IT, I love to coach people who - like me - also want to achieve more in getting a better job, a better salary, a better role, a better partnership, a better resilency, a better enjoyable and meaningful life.
 
 ### IT Certifications 🏆
 * Certified Kubernetes Administrator (2024)
